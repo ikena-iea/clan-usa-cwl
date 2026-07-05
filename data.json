@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-05T15:22:51.438Z",
+  "fetchedAt": "2026-07-05T17:21:47.001Z",
   "attacks": [
     {
       "round": 1,
@@ -388,10 +388,10 @@
       "name": "nash",
       "tag": "#R0R2LULYV",
       "ath": 10,
-      "dth": null,
+      "dth": 12,
       "stars": 0,
-      "dest": 0,
-      "missed": true
+      "dest": 48,
+      "missed": false
     },
     {
       "round": 2,
