@@ -6,8 +6,7 @@
 //                    RoyaleAPI proxy IPs, not your own IP)
 //   CLAN_TAG       - your clan tag, e.g. #2CGG82GUJ
 
-const BASE = 'https://cocproxy.royaleapi.dev/v1';
-// const BASE = "https://api.clashofclans.com/v1";
+const BASE = process.env.COC_API_BASE || (process.env.GITHUB_ACTIONS === "true" ? "https://cocproxy.royaleapi.dev/v1" : "https://api.clashofclans.com/v1");
 
 const TOKEN = process.env.COC_API_TOKEN;
 const CLAN_TAG = process.env.CLAN_TAG;
@@ -76,24 +75,37 @@ async function main() {
             stars: atk.stars,
             dest: Math.round(atk.destructionPercentage * 100) / 100,
             missed: false,
+            pending: false,
           });
-        } else {
-          // no attack object at all = missed, but only counts if the war
-          // has actually ended or is in progress with attack window closed;
-          // include as missed once the war state is not "preparation"
-          if (war.state !== "preparation") {
-            attacks.push({
-              round: roundNumber,
-              name: member.name,
-              tag: member.tag,
-              ath,
-              dth: null,
-              stars: 0,
-              dest: 0,
-              missed: true,
-            });
-          }
+        } else if (war.state === "warEnded") {
+          // War is fully over and they never attacked = a real miss.
+          attacks.push({
+            round: roundNumber,
+            name: member.name,
+            tag: member.tag,
+            ath,
+            dth: null,
+            stars: 0,
+            dest: 0,
+            missed: true,
+            pending: false,
+          });
+        } else if (war.state === "inWar") {
+          // War is live but the attack window hasn't closed yet - they
+          // still have a chance to attack, so this is NOT a miss.
+          attacks.push({
+            round: roundNumber,
+            name: member.name,
+            tag: member.tag,
+            ath,
+            dth: null,
+            stars: 0,
+            dest: 0,
+            missed: false,
+            pending: true,
+          });
         }
+        // war.state === 'preparation': war hasn't started yet, skip entirely
       }
     }
   }

@@ -40,6 +40,7 @@
   .medal-silver { background: rgba(148,163,184,0.15); color: var(--silver); }
   .medal-bronze { background: rgba(194,115,58,0.15); color: var(--bronze); }
   .miss { color: var(--danger); }
+  .pending { color: #eab308; }
   .updated { color: var(--text-secondary); font-size: 12px; margin-top: 24px; text-align: center; }
   .error { background: rgba(239,68,68,0.1); border: 1px solid var(--danger); color: var(--danger); padding: 12px 16px; border-radius: 8px; font-size: 13px; }
   .info-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 24px; }
@@ -74,6 +75,7 @@
       <span><span class="medal medal-bronze">Bronze</span> avg 1.5&ndash;2.7</span>
       <span>&mdash; below 1.5, or missed attacks bring your average down</span>
     </div>
+    <p style="margin-top:10px;">While a round is still open, anyone who hasn't attacked yet shows as <span class="pending" style="font-weight:600;">Not yet attacked</span> rather than a miss — it only counts against someone once that round's war has actually ended.</p>
   </div>
 
   <div class="stats">
@@ -117,6 +119,7 @@
 function clamp(x, lo, hi) { return Math.max(lo, Math.min(hi, x)); }
 
 function computeAttackPoints(a) {
+  if (a.pending) return 0;
   if (a.missed) return -3;
   if (a.dth === null || a.dth === undefined) return a.stars + a.dest / 100;
   const mult = clamp(1 + 0.3 * (a.dth - a.ath), 0.4, 1.8);
@@ -148,6 +151,7 @@ async function load() {
   let totalMisses = 0;
 
   attacks.forEach(a => {
+    if (a.pending) return; // hasn't had their attack window close yet - doesn't count either way
     if (!byName[a.name]) byName[a.name] = { points: 0, attacks: 0, misses: 0 };
     const pts = computeAttackPoints(a);
     byName[a.name].points += pts;
@@ -162,7 +166,7 @@ async function load() {
   }).sort((a, b) => b.avg - a.avg);
 
   document.getElementById('stat-members').textContent = rows.length;
-  document.getElementById('stat-attacks').textContent = attacks.filter(a => !a.missed).length;
+  document.getElementById('stat-attacks').textContent = attacks.filter(a => !a.missed && !a.pending).length;
   document.getElementById('stat-misses').textContent = totalMisses;
 
   const maxRound = attacks.reduce((m, a) => Math.max(m, a.round || 0), 0);
@@ -231,13 +235,27 @@ function renderRounds(attacks) {
     list.forEach(a => {
       const pts = computeAttackPoints(a);
       const tr = document.createElement('tr');
+      let starsCell, destCell, ptsCell;
+      if (a.pending) {
+        starsCell = '<span class="pending">Not yet attacked</span>';
+        destCell = '\u2014';
+        ptsCell = '\u2014';
+      } else if (a.missed) {
+        starsCell = '<span class="miss">Missed</span>';
+        destCell = '\u2014';
+        ptsCell = pts.toFixed(2);
+      } else {
+        starsCell = a.stars;
+        destCell = a.dest;
+        ptsCell = pts.toFixed(2);
+      }
       tr.innerHTML =
         '<td>' + a.name + '</td>' +
         '<td class="num">' + a.ath + '</td>' +
         '<td class="num">' + (a.dth !== null && a.dth !== undefined ? a.dth : '\u2014') + '</td>' +
-        '<td class="num">' + (a.missed ? '<span class="miss">Missed</span>' : a.stars) + '</td>' +
-        '<td class="num">' + (a.missed ? '\u2014' : a.dest) + '</td>' +
-        '<td class="num" style="font-weight:600;">' + pts.toFixed(2) + '</td>';
+        '<td class="num">' + starsCell + '</td>' +
+        '<td class="num">' + destCell + '</td>' +
+        '<td class="num" style="font-weight:600;">' + ptsCell + '</td>';
       tbody.appendChild(tr);
     });
 
