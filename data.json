@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-05T21:11:58.575Z",
+  "fetchedAt": "2026-07-05T22:30:39.735Z",
   "attacks": [
     {
       "round": 1,
@@ -11,7 +11,8 @@
       "dth": 18,
       "stars": 0,
       "dest": 35,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -21,7 +22,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -31,7 +33,8 @@
       "dth": 10,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -41,7 +44,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -51,7 +55,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -61,7 +66,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 50,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -71,7 +77,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -81,7 +88,8 @@
       "dth": 11,
       "stars": 1,
       "dest": 23,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -91,7 +99,8 @@
       "dth": 9,
       "stars": 1,
       "dest": 66,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -101,7 +110,8 @@
       "dth": 13,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -111,7 +121,8 @@
       "dth": 9,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -121,7 +132,8 @@
       "dth": 13,
       "stars": 0,
       "dest": 49,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -131,7 +143,8 @@
       "dth": 11,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -141,7 +154,8 @@
       "dth": 9,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -151,7 +165,8 @@
       "dth": 9,
       "stars": 2,
       "dest": 75,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -161,7 +176,8 @@
       "dth": 11,
       "stars": 2,
       "dest": 85,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -171,7 +187,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -181,7 +198,8 @@
       "dth": 11,
       "stars": 0,
       "dest": 44,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -191,7 +209,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 1,
@@ -201,7 +220,8 @@
       "dth": 12,
       "stars": 2,
       "dest": 84,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -211,7 +231,8 @@
       "dth": 18,
       "stars": 2,
       "dest": 85,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -221,7 +242,8 @@
       "dth": 9,
       "stars": 0,
       "dest": 43,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -231,7 +253,8 @@
       "dth": 10,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -241,7 +264,8 @@
       "dth": 10,
       "stars": 2,
       "dest": 90,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -251,7 +275,8 @@
       "dth": 13,
       "stars": 1,
       "dest": 51,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -261,7 +286,8 @@
       "dth": 9,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -271,7 +297,8 @@
       "dth": 11,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -281,7 +308,8 @@
       "dth": 11,
       "stars": 2,
       "dest": 63,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -291,7 +319,8 @@
       "dth": 12,
       "stars": 0,
       "dest": 44,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 1,
@@ -301,7 +330,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -311,7 +341,8 @@
       "dth": 12,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -321,7 +352,8 @@
       "dth": 13,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -331,7 +363,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 46,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -341,7 +374,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -351,7 +385,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -361,7 +396,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -371,7 +407,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -381,7 +418,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 79,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -391,7 +429,8 @@
       "dth": 12,
       "stars": 0,
       "dest": 48,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -401,7 +440,8 @@
       "dth": 13,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -411,7 +451,8 @@
       "dth": 12,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -421,7 +462,8 @@
       "dth": 12,
       "stars": 0,
       "dest": 49,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -431,7 +473,8 @@
       "dth": 12,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -441,7 +484,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 70,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -451,7 +495,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 31,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -461,7 +506,8 @@
       "dth": 12,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -471,7 +517,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -481,7 +528,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -491,7 +539,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 2,
@@ -501,7 +550,8 @@
       "dth": 13,
       "stars": 2,
       "dest": 71,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -511,7 +561,8 @@
       "dth": 13,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -521,7 +572,8 @@
       "dth": 12,
       "stars": 0,
       "dest": 29,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -531,7 +583,8 @@
       "dth": 12,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -541,7 +594,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 53,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -551,7 +605,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 50,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -561,7 +616,8 @@
       "dth": 12,
       "stars": 2,
       "dest": 68,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -571,7 +627,8 @@
       "dth": 13,
       "stars": 3,
       "dest": 100,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -581,7 +638,8 @@
       "dth": 12,
       "stars": 0,
       "dest": 47,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -591,7 +649,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 52,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 2,
@@ -601,7 +660,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 35,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 3,
@@ -611,7 +671,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -621,7 +682,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -631,7 +693,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -641,7 +704,8 @@
       "dth": 14,
       "stars": 2,
       "dest": 76,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 3,
@@ -651,7 +715,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -661,7 +726,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -671,7 +737,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -681,7 +748,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -691,7 +759,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -701,7 +770,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -711,7 +781,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -721,17 +792,19 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
-      "missed": true
+      "dth": 14,
+      "stars": 3,
+      "dest": 100,
+      "missed": false,
+      "pending": false
     },
     {
       "round": 3,
@@ -741,7 +814,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -751,7 +825,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -761,7 +836,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -771,7 +847,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -781,7 +858,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -791,7 +869,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -801,7 +880,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -811,7 +891,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -821,7 +902,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -831,7 +913,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -841,7 +924,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -851,7 +935,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -861,7 +946,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -871,7 +957,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -881,7 +968,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     },
     {
       "round": 3,
@@ -891,7 +979,8 @@
       "dth": 12,
       "stars": 1,
       "dest": 62,
-      "missed": false
+      "missed": false,
+      "pending": false
     },
     {
       "round": 3,
@@ -901,7 +990,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": true
+      "missed": false,
+      "pending": true
     }
   ]
 }
