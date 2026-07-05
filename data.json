@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-05T09:45:36.675Z",
+  "fetchedAt": "2026-07-05T11:41:25.051Z",
   "attacks": [
     {
       "round": 1,
@@ -328,10 +328,10 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
-      "missed": true
+      "dth": 12,
+      "stars": 1,
+      "dest": 46,
+      "missed": false
     },
     {
       "round": 2,
