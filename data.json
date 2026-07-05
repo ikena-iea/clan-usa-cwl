@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-05T06:34:18.703Z",
+  "fetchedAt": "2026-07-05T07:42:37.800Z",
   "attacks": [
     {
       "round": 1,
@@ -318,10 +318,10 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
-      "missed": true
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
+      "missed": false
     },
     {
       "round": 2,
