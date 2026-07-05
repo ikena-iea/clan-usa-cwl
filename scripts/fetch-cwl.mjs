@@ -6,8 +6,8 @@
 //                    RoyaleAPI proxy IPs, not your own IP)
 //   CLAN_TAG       - your clan tag, e.g. #2CGG82GUJ
 
-// const BASE = 'https://cocproxy.royaleapi.dev/v1';
-const BASE = "https://api.clashofclans.com/v1";
+const BASE = 'https://cocproxy.royaleapi.dev/v1';
+// const BASE = "https://api.clashofclans.com/v1";
 
 const TOKEN = process.env.COC_API_TOKEN;
 const CLAN_TAG = process.env.CLAN_TAG;
