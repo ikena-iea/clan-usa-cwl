@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-06T04:20:45.761Z",
+  "fetchedAt": "2026-07-06T09:07:13.634Z",
   "attacks": [
     {
       "round": 1,
@@ -679,11 +679,11 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 15,
+      "stars": 1,
+      "dest": 69,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -767,33 +767,33 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "lucky",
       "tag": "#GYC8Q2R20",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 2,
+      "dest": 69,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -822,11 +822,11 @@
       "name": "dark angel",
       "tag": "#GC9U2PC0J",
       "ath": 9,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 49,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -921,11 +921,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -954,11 +954,11 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 1,
+      "dest": 97,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -987,11 +987,11 @@
       "name": "Tres",
       "tag": "#GQRQUPY0R",
       "ath": 8,
-      "dth": null,
+      "dth": 10,
       "stars": 0,
-      "dest": 0,
+      "dest": 38,
       "missed": false,
-      "pending": true
+      "pending": false
     }
   ]
 }
