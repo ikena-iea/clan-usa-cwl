@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-06T09:07:13.634Z",
+  "fetchedAt": "2026-07-06T13:55:09.507Z",
   "attacks": [
     {
       "round": 1,
@@ -745,22 +745,22 @@
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 10,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 47,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
       "name": "nash",
       "tag": "#R0R2LULYV",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 61,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -877,11 +877,11 @@
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
@@ -910,11 +910,11 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 3,
