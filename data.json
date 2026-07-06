@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-06T21:43:35.220Z",
+  "fetchedAt": "2026-07-06T23:15:33.634Z",
   "attacks": [
     {
       "round": 1,
@@ -998,11 +998,11 @@
       "name": "MARVIN",
       "tag": "#CQ2U9JYJ",
       "ath": 16,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1207,11 +1207,11 @@
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 61,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1240,11 +1240,11 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 96,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
