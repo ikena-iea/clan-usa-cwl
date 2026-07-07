@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-07T20:54:06.230Z",
+  "fetchedAt": "2026-07-07T22:18:03.367Z",
   "attacks": [
     {
       "round": 1,
@@ -1350,11 +1350,11 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1559,11 +1559,11 @@
       "name": "arroz",
       "tag": "#R8J082Y0J",
       "ath": 9,
-      "dth": null,
+      "dth": 9,
       "stars": 0,
-      "dest": 0,
+      "dest": 44,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
