@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-07T12:04:11.681Z",
+  "fetchedAt": "2026-07-07T15:47:43.908Z",
   "attacks": [
     {
       "round": 1,
@@ -1042,11 +1042,11 @@
       "name": "Gray",
       "tag": "#Q29UJGCGQ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 73,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1086,11 +1086,11 @@
       "name": "nash",
       "tag": "#R0R2LULYV",
       "ath": 10,
-      "dth": null,
+      "dth": 12,
       "stars": 0,
-      "dest": 0,
+      "dest": 39,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1251,11 +1251,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 1,
+      "dest": 80,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1295,11 +1295,11 @@
       "name": "koko",
       "tag": "#GU8GQYQGQ",
       "ath": 10,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 44,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
