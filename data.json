@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-07T08:30:42.547Z",
+  "fetchedAt": "2026-07-07T12:04:11.681Z",
   "attacks": [
     {
       "round": 1,
@@ -1031,11 +1031,11 @@
       "name": "elf00",
       "tag": "#GPLRVGLGJ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1229,11 +1229,11 @@
       "name": "arroz",
       "tag": "#R8J082Y0J",
       "ath": 9,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 1,
+      "dest": 35,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
