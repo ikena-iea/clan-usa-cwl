@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-06T23:15:33.634Z",
+  "fetchedAt": "2026-07-07T04:09:59.549Z",
   "attacks": [
     {
       "round": 1,
@@ -1009,11 +1009,11 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 16,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1108,11 +1108,11 @@
       "name": "lucky",
       "tag": "#GYC8Q2R20",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 1,
+      "dest": 85,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1130,11 +1130,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1163,11 +1163,11 @@
       "name": "Husky named rex",
       "tag": "#G9UG989VL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 93,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1185,11 +1185,11 @@
       "name": "Tierra",
       "tag": "#R2200V02L",
       "ath": 10,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 25,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
@@ -1262,22 +1262,22 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 16,
+      "stars": 1,
+      "dest": 80,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
       "name": "shsuhwshha",
       "tag": "#QJLL90YR9",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 4,
