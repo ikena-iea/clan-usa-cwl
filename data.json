@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T12:47:37.194Z",
+  "fetchedAt": "2026-07-08T15:28:59.130Z",
   "attacks": [
     {
       "round": 1,
@@ -1372,11 +1372,11 @@
       "name": "Gray",
       "tag": "#Q29UJGCGQ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 85,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
