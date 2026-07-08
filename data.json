@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T07:36:19.815Z",
+  "fetchedAt": "2026-07-08T10:28:04.457Z",
   "attacks": [
     {
       "round": 1,
@@ -1614,11 +1614,11 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
