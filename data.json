@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-07T22:18:03.367Z",
+  "fetchedAt": "2026-07-08T00:06:24.464Z",
   "attacks": [
     {
       "round": 1,
@@ -1339,11 +1339,11 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1361,11 +1361,11 @@
       "name": "elf00",
       "tag": "#GPLRVGLGJ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 14,
+      "stars": 1,
+      "dest": 83,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1427,11 +1427,11 @@
       "name": "mustafa",
       "tag": "#GQUQV0PJV",
       "ath": 15,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1504,11 +1504,11 @@
       "name": "spy angel",
       "tag": "#R22VR8CCY",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 2,
+      "dest": 59,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1526,11 +1526,11 @@
       "name": "FazeTibbles",
       "tag": "#QYY8J8RVL",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 74,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1592,11 +1592,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
