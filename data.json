@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T15:28:59.130Z",
+  "fetchedAt": "2026-07-08T17:47:29.693Z",
   "attacks": [
     {
       "round": 1,
@@ -1328,11 +1328,11 @@
       "name": "MARVIN",
       "tag": "#CQ2U9JYJ",
       "ath": 16,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
