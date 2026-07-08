@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T21:17:44.805Z",
+  "fetchedAt": "2026-07-08T23:17:27.552Z",
   "attacks": [
     {
       "round": 1,
@@ -1658,11 +1658,11 @@
       "name": "MARVIN",
       "tag": "#CQ2U9JYJ",
       "ath": 16,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1922,11 +1922,11 @@
       "name": "LegitN00b98",
       "tag": "#R8GPLGRVQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 1,
+      "dest": 64,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
