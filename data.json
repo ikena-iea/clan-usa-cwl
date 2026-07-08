@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T00:06:24.464Z",
+  "fetchedAt": "2026-07-08T02:15:46.122Z",
   "attacks": [
     {
       "round": 1,
@@ -1416,11 +1416,11 @@
       "name": "nash",
       "tag": "#R0R2LULYV",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 2,
+      "dest": 98,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1449,22 +1449,22 @@
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 2,
+      "dest": 72,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1570,11 +1570,11 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
