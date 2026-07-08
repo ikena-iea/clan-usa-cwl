@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T04:21:24.423Z",
+  "fetchedAt": "2026-07-08T07:36:19.815Z",
   "attacks": [
     {
       "round": 1,
@@ -1493,11 +1493,11 @@
       "name": "Husky named rex",
       "tag": "#G9UG989VL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1548,11 +1548,11 @@
       "name": "¥¥Eagle claw¥¥",
       "tag": "#88LVJLGY0",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 15,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1581,11 +1581,11 @@
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 2,
+      "dest": 58,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1603,11 +1603,11 @@
       "name": "shsuhwshha",
       "tag": "#QJLL90YR9",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 9,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
@@ -1625,11 +1625,11 @@
       "name": "koko",
       "tag": "#GU8GQYQGQ",
       "ath": 10,
-      "dth": null,
+      "dth": 10,
       "stars": 0,
-      "dest": 0,
+      "dest": 48,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 5,
