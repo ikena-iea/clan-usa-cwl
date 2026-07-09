@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-09T04:04:06.303Z",
+  "fetchedAt": "2026-07-09T08:39:26.602Z",
   "attacks": [
     {
       "round": 1,
@@ -1768,22 +1768,22 @@
       "name": "lucky",
       "tag": "#GYC8Q2R20",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "DevilIguana",
       "tag": "#GVV89RJYQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1933,11 +1933,11 @@
       "name": "shsuhwshha",
       "tag": "#QJLL90YR9",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 18,
+      "stars": 1,
+      "dest": 36,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1955,11 +1955,11 @@
       "name": "koko",
       "tag": "#GU8GQYQGQ",
       "ath": 10,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 14,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
