@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-08T23:17:27.552Z",
+  "fetchedAt": "2026-07-09T04:04:06.303Z",
   "attacks": [
     {
       "round": 1,
@@ -1669,22 +1669,22 @@
       "name": "嘻哈侠88",
       "tag": "#LJRJ2UJU2",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 14,
+      "stars": 2,
+      "dest": 61,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1735,11 +1735,11 @@
       "name": "thegodlynoob",
       "tag": "#PJ22QYY22",
       "ath": 10,
-      "dth": null,
+      "dth": 11,
       "stars": 0,
-      "dest": 0,
+      "dest": 46,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1790,11 +1790,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 13,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1867,11 +1867,11 @@
       "name": "Aswath stark",
       "tag": "#YYCR2YRRJ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1900,22 +1900,22 @@
       "name": "DaHairyVeer2",
       "tag": "#GYVPLJRRL",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 2,
+      "dest": 68,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
       "name": "jadav m",
       "tag": "#R9R2RV892",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 10,
+      "stars": 1,
+      "dest": 63,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1966,11 +1966,11 @@
       "name": "allis",
       "tag": "#GLUJVJGGV",
       "ath": 10,
-      "dth": null,
+      "dth": 12,
       "stars": 0,
-      "dest": 0,
+      "dest": 34,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
