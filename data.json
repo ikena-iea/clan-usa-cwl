@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-09T12:13:05.465Z",
+  "fetchedAt": "2026-07-09T16:06:56.134Z",
   "attacks": [
     {
       "round": 1,
@@ -1702,11 +1702,11 @@
       "name": "Gray",
       "tag": "#Q29UJGCGQ",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 1,
+      "dest": 81,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1746,11 +1746,11 @@
       "name": "nash",
       "tag": "#R0R2LULYV",
       "ath": 10,
-      "dth": null,
+      "dth": 12,
       "stars": 0,
-      "dest": 0,
+      "dest": 42,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1834,11 +1834,11 @@
       "name": "spy angel",
       "tag": "#R22VR8CCY",
       "ath": 10,
-      "dth": null,
+      "dth": 18,
       "stars": 0,
-      "dest": 0,
+      "dest": 3,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
