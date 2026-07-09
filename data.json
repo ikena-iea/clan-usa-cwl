@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-09T08:39:26.602Z",
+  "fetchedAt": "2026-07-09T12:13:05.465Z",
   "attacks": [
     {
       "round": 1,
@@ -1944,11 +1944,11 @@
       "name": "Didetz",
       "tag": "#R8PJY0U0J",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 6,
@@ -1977,11 +1977,11 @@
       "name": "Tres",
       "tag": "#GQRQUPY0R",
       "ath": 8,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 1,
+      "dest": 27,
       "missed": false,
-      "pending": true
+      "pending": false
     }
   ]
 }
