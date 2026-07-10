@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-09T22:38:30.970Z",
+  "fetchedAt": "2026-07-10T00:13:39.150Z",
   "attacks": [
     {
       "round": 1,
@@ -2296,11 +2296,11 @@
       "name": "allis",
       "tag": "#GLUJVJGGV",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
