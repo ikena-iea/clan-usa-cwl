@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-10T17:53:55.152Z",
+  "fetchedAt": "2026-07-10T19:45:20.242Z",
   "attacks": [
     {
       "round": 1,
@@ -2208,11 +2208,11 @@
       "name": "¥¥Eagle claw¥¥",
       "tag": "#88LVJLGY0",
       "ath": 17,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
