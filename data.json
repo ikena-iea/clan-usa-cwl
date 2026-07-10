@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-10T15:37:28.020Z",
+  "fetchedAt": "2026-07-10T17:53:55.152Z",
   "attacks": [
     {
       "round": 1,
@@ -2010,11 +2010,11 @@
       "name": "your mom",
       "tag": "#QVPQ8G2VQ",
       "ath": 11,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2043,11 +2043,11 @@
       "name": "rakesh",
       "tag": "#2Y8LGGVJL",
       "ath": 12,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
@@ -2285,11 +2285,11 @@
       "name": "koko",
       "tag": "#GU8GQYQGQ",
       "ath": 10,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 11,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
