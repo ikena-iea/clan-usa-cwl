@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-10T19:45:20.242Z",
+  "fetchedAt": "2026-07-10T21:14:10.254Z",
   "attacks": [
     {
       "round": 1,
@@ -2035,8 +2035,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2057,8 +2057,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2079,8 +2079,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
@@ -2167,8 +2167,8 @@
       "dth": null,
       "stars": 0,
       "dest": 0,
-      "missed": false,
-      "pending": true
+      "missed": true,
+      "pending": false
     },
     {
       "round": 7,
