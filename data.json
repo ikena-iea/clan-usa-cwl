@@ -1,7 +1,7 @@
 {
   "clanTag": "#2CGG82GUJ",
   "season": "2026-07-02",
-  "fetchedAt": "2026-07-10T00:13:39.150Z",
+  "fetchedAt": "2026-07-10T01:22:34.557Z",
   "attacks": [
     {
       "round": 1,
@@ -2120,11 +2120,11 @@
       "name": "Ikena",
       "tag": "#R292L228Q",
       "ath": 13,
-      "dth": null,
-      "stars": 0,
-      "dest": 0,
+      "dth": 12,
+      "stars": 3,
+      "dest": 100,
       "missed": false,
-      "pending": true
+      "pending": false
     },
     {
       "round": 7,
